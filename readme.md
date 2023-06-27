@@ -1,5 +1,4 @@
 ## INSE 6110 project  
-### Student ID :- 40197772 | Name :- Abhishek Satasiya 
 
 Project Description: Developed a program that generates public and private keys, encrypts and decrypts messages, and creates and verifies digital signatures using the RSA algorithm in Python.
 
